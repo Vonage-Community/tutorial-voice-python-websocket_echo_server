@@ -2,6 +2,7 @@
 
 This sample shows how to connect a Voice API call to a websocket endpoint. The websocket acts as an "echo server", repeating everything that the caller says. It complements [this Vonage Developer tutorial on connecting to a websocket](https://developer.vonage.com/en/tutorials/connect-to-a-websocket/introduction/python).
 
+## Sections
 - [Setup](#setup)
 - [Run the code](#run-the-code)
 
