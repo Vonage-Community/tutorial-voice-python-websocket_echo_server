@@ -15,7 +15,7 @@ def answer_call():
         },
         {
             "action": "connect",
-            "from": "NexmoTest",
+            "from": "Vonage",
             "endpoint": [
                 {
                     "type": "websocket",
